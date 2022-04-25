@@ -1,0 +1,4 @@
+PROGRAMA QUE REOCNOCE SI UN NUMERO ES PAR O IMPAR
+
+DIAGRAMA DE FLUJO
+![diagramadeflujo](par-impar.png) 
